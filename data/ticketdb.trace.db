@@ -1,0 +1,6 @@
+2024-12-12 00:44:06.766877+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HTE_TICKET_DATA" already exists; SQL statement:
+create global temporary table HTE_ticket_data(rn_ integer not null, id bigint, primary key (rn_)) TRANSACTIONAL [42101-232]
+2024-12-12 00:54:08.435381+05:30 jdbc[23]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HTE_TICKET_DATA" already exists; SQL statement:
+create global temporary table HTE_ticket_data(rn_ integer not null, id bigint, primary key (rn_)) TRANSACTIONAL [42101-232]
