@@ -17,9 +17,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2q4ol4V9nDaxulFjnyzpyfkVvJh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,8 +33,9 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.TicketsystemApplication.executor": "Run",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Z Book/Desktop/backend",
+    "last_opened_file_path": "C:/Users/Z Book/Desktop/cli",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,7 +70,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733931355520</updated>
-      <workItem from="1733931356601" duration="8398000" />
+      <workItem from="1733931356601" duration="10892000" />
+      <workItem from="1733976082349" duration="51000" />
+      <workItem from="1733979179495" duration="1986000" />
     </task>
     <servers />
   </component>
